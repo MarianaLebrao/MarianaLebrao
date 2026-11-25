@@ -42,8 +42,8 @@ I enjoy understanding how systems work, questioning existing solutions, and tran
 <sub>✦ Spring Boot · Spring MVC · FastAPI · REST APIs · WebSocket &nbsp;&nbsp;☽ .NET</sub>
 
 **Frontend**<br />
-<img src="https://skillicons.dev/icons?i=react,html,css,sass&theme=dark" height="40" alt="React, HTML5, CSS3, Sass" /><br />
-<sub>✦ React · HTML5 · CSS3 · Sass</sub>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="40" alt="React, HTML5, CSS3" /><br />
+<sub>✦ React · HTML5 · CSS3</sub>
 
 **Databases**<br />
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="40" alt="MySQL, MongoDB" /><br />
