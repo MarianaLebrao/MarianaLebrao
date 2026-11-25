@@ -87,11 +87,11 @@ Presented a short paper at the **VIII Congresso de Inovação e Tecnologia e Wor
 
 ## ✧ Education & Credentials
 
-| | Credential | Issuer | Year |
-|---|---|---|---|
-| ☾ | Degree in Systems Analysis and Development | FATEC Rio Preto | 2026 |
-| ✦ | AWS Academy Graduate – Cloud Foundations | AWS Academy | 2026 |
-| ✦ | Cambridge English B2 First (FCE) | Cambridge English | 2025 |
+| Credential | Issuer | Year |
+|---|---|---|
+| Degree in Systems Analysis and Development | FATEC Rio Preto | 2026 |
+| AWS Academy Graduate – Cloud Foundations | AWS Academy | 2026 |
+| Cambridge English B2 First (FCE) | Cambridge English | 2025 |
 
 <sub>AWS Academy Graduate is a course-completion credential from the AWS Academy program. It is not the AWS Certified Cloud Practitioner exam certification.</sub>
 
